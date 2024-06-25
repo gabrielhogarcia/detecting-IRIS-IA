@@ -1,1 +1,1 @@
-# detecting-coffee-diseases-IA
+# detecting-IRIS-IA
